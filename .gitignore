@@ -1,0 +1,11 @@
+# ndnSIM raw trace outputs (large, reproducible)
+results/**/*-l3-*.txt
+results/**/*-delay-*.txt
+*.txt
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
