@@ -1,11 +1,27 @@
-# ndnSIM raw trace outputs (large, reproducible)
+# ndnSIM raw trace outputs — large and reproducible from simulation source
 results/**/*-l3-*.txt
 results/**/*-delay-*.txt
-*.txt
+test.txt
 
 # macOS
 .DS_Store
+.AppleDouble
+.LSOverride
 
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Build artifacts
+*.o
+*.d
+build/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
