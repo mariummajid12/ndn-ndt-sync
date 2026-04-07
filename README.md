@@ -2,7 +2,7 @@
 
 **NDN-based Network Digital Twin Synchronisation Protocol for O-RAN / 6G**
 
-This repository contains the simulation work and protocol design for synchronization between Physical Twin and Network Digital Twin — an MSc research internship project at [LIST Luxembourg](https://www.list.lu), supervised by Dr. Sébastien Faye.
+This repository contains the simulation work and protocol design for synchronization between Physical Twin and Network Digital Twin — an MSc research internship project at [LIST Luxembourg](https://www.list.lu), supervised by Dr. Ayat Zaki Hindi.
 
 ---
 
